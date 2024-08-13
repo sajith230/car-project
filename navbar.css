@@ -1,0 +1,28 @@
+ul {
+
+
+    justify-content: space-between;
+    display: flex;
+}
+
+
+li{
+
+
+
+    margin-right: 50px;
+    color: black;
+}
+
+li:hover{
+
+
+    color: blue;
+}
+
+.saji{
+
+
+    background-color: bisque;
+    padding: 10px;
+}
